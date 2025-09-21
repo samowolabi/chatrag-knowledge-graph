@@ -174,8 +174,8 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd chatrag-app
+git clone https://github.com/samowolabi/chatrag-knowledge-graph.git
+cd chatrag-knowledge-graph
 
 # Install dependencies
 npm install
